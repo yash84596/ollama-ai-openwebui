@@ -45,14 +45,14 @@ List the minimum system or hardware requirements for running the project, both l
 
 2. Install Docker and Docker Compose on the EC2 instance:
 
-sudo apt update
-sudo apt install docker.io docker-compose
+   sudo apt update
+   sudo apt install docker.io docker-compose
 
 3. Clone the repository and start the containers:
 
-git clone https://github.com/abhay-dandge/ollama-ai-openwebui.git
-cd ollama-ai-openwebui
-docker-compose up --build
+   git clone https://github.com/abhay-dandge/ollama-ai-openwebui.git
+   cd ollama-ai-openwebui
+   docker-compose up --build
 
 4. Access the OpenWebUI at http://<your-ec2-public-ip>:8080.
 
