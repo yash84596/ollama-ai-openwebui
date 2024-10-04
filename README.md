@@ -78,3 +78,9 @@ We welcome contributions from the community! To contribute:
 Contact
 
 Created by Abhay Dandge. Feel free to reach out via LinkedIn or GitHub.
+
+Note: (By default only one model is there lamma3)
+Refer for more Model & Insite
+
+- For UI : https://docs.openwebui.com/ 
+- Models : https://ollama.com/library 
