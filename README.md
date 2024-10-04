@@ -53,7 +53,7 @@ List the minimum system or hardware requirements for running the project, both l
    git clone https://github.com/abhay-dandge/ollama-ai-openwebui.git
    cd ollama-ai-openwebui
    docker-compose up --build
-   ```bash
+   ```
 4. Access the OpenWebUI at http://<your-ec2-public-ip>:8080.
 
    - Once the containers are running, access the UI via http://localhost:8080 or http://<your-ec2-public-ip>:8080 on the cloud.
