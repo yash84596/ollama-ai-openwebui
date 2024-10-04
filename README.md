@@ -25,7 +25,7 @@ List the minimum system or hardware requirements for running the project, both l
 **Installation Guide**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ollama-ai-openwebui.git
+   git clone https://github.com/abhay-dandge/ollama-ai-openwebui.git
    cd ollama-ai-openwebui
 
 2.Build and start the Docker containers:
@@ -50,7 +50,7 @@ sudo apt install docker.io docker-compose
 
 3. Clone the repository and start the containers:
 
-git clone https://github.com/your-username/ollama-ai-openwebui.git
+git clone https://github.com/abhay-dandge/ollama-ai-openwebui.git
 cd ollama-ai-openwebui
 docker-compose up --build
 
