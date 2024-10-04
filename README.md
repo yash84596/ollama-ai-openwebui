@@ -31,9 +31,9 @@ List the minimum system or hardware requirements for running the project, both l
 2.Build and start the Docker containers:
 
    ```bash
-   docker-compose up --build
+   sh run_containers.sh 
 ```
-3. Access the OpenWebUI at http://localhost:8080 to interact with the AI models.
+3. Access the OpenWebUI at http://localhost:3000 to interact with the AI models.
 
 **AWS EC2 Deployment**
 
@@ -46,17 +46,17 @@ List the minimum system or hardware requirements for running the project, both l
 2. Install Docker and Docker Compose on the EC2 instance:
    ```bash
    sudo apt update
-   sudo apt install docker.io docker-compose
+   sudo apt install docker.io / snap install docker
    ```
 3. Clone the repository and start the containers:
    ```bash
    git clone https://github.com/abhay-dandge/ollama-ai-openwebui.git
    cd ollama-ai-openwebui
-   docker-compose up --build
+   sh run_containers.sh 
    ```
-4. Access the OpenWebUI at http://<your-ec2-public-ip>:8080.
+4. Access the OpenWebUI at http://<your-ec2-public-ip>:3000.
 
-   - Once the containers are running, access the UI via http://localhost:8080 or http://<your-ec2-public-ip>:8080 on the cloud.
+   - Once the containers are running, access the UI via http://localhost:3000 or http://<your-ec2-public-ip>:3000 on the cloud.
    - Choose from the list of AI models available in the UI.
    - Interact with the models by inputting text queries or uploading relevant data.
    - For offline use, ensure that your models are pre-downloaded and the containers are running in an isolated environment.
