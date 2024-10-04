@@ -30,9 +30,9 @@ List the minimum system or hardware requirements for running the project, both l
 
 2.Build and start the Docker containers:
 
-```bash
-docker-compose up --build
-
+   ```bash
+   docker-compose up --build
+```
 3. Access the OpenWebUI at http://localhost:8080 to interact with the AI models.
 
 **AWS EC2 Deployment**
