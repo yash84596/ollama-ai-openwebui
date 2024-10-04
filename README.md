@@ -44,22 +44,22 @@ List the minimum system or hardware requirements for running the project, both l
     Ubuntu 20.04 AMI
 
 2. Install Docker and Docker Compose on the EC2 instance:
-
+   ```bash
    sudo apt update
    sudo apt install docker.io docker-compose
-
+   ```
 3. Clone the repository and start the containers:
-
+   ```bash
    git clone https://github.com/abhay-dandge/ollama-ai-openwebui.git
    cd ollama-ai-openwebui
    docker-compose up --build
-
+   ```bash
 4. Access the OpenWebUI at http://<your-ec2-public-ip>:8080.
 
-1. Once the containers are running, access the UI via http://localhost:8080 or http://<your-ec2-public-ip>:8080 on the cloud.
-2. Choose from the list of AI models available in the UI.
-3. Interact with the models by inputting text queries or uploading relevant data.
-4. For offline use, ensure that your models are pre-downloaded and the containers are running in an isolated environment.
+   ^ Once the containers are running, access the UI via http://localhost:8080 or http://<your-ec2-public-ip>:8080 on the cloud.
+   ^ Choose from the list of AI models available in the UI.
+   ^ Interact with the models by inputting text queries or uploading relevant data.
+   ^ For offline use, ensure that your models are pre-downloaded and the containers are running in an isolated environment.
 
 **Data Privacy & Security**
 
