@@ -19,7 +19,6 @@ List the minimum system or hardware requirements for running the project, both l
 
 **Software Requirements:**
 - Docker (version 20.x or above)
-- Docker Compose (version 1.29 or above)
 - AWS EC2 (optional for cloud deployment)
 
 **Installation Guide**
