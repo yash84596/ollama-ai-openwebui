@@ -56,10 +56,10 @@ List the minimum system or hardware requirements for running the project, both l
    ```bash
 4. Access the OpenWebUI at http://<your-ec2-public-ip>:8080.
 
-   ^ Once the containers are running, access the UI via http://localhost:8080 or http://<your-ec2-public-ip>:8080 on the cloud.
-   ^ Choose from the list of AI models available in the UI.
-   ^ Interact with the models by inputting text queries or uploading relevant data.
-   ^ For offline use, ensure that your models are pre-downloaded and the containers are running in an isolated environment.
+   - Once the containers are running, access the UI via http://localhost:8080 or http://<your-ec2-public-ip>:8080 on the cloud.
+   - Choose from the list of AI models available in the UI.
+   - Interact with the models by inputting text queries or uploading relevant data.
+   - For offline use, ensure that your models are pre-downloaded and the containers are running in an isolated environment.
 
 **Data Privacy & Security**
 
