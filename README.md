@@ -71,10 +71,10 @@ Contributing
 
 We welcome contributions from the community! To contribute:
 
-  - 1) Fork the repository.
+   - 1) Fork the repository.
    - 2) Create a new branch for your feature or fix.
-    - 3) Make your changes and test thoroughly.
-     - 4) Submit a pull request with a detailed description of your changes.
+   - 3) Make your changes and test thoroughly.
+   - 4) Submit a pull request with a detailed description of your changes.
 
 Contact
 
