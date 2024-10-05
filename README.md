@@ -1,5 +1,5 @@
 # ollama-ai-openwebui
-**Private Ollama AI Deployment**  Deploy over 20 AI models locally or in the cloud using Docker containers and a user-friendly interface. Keep your data secure and access AI capabilities without relying on third-party services. Ideal for businesses and individuals seeking control over their AI deployments.
+**Intranet Ollama AI Deployment**  You can Deploy over 20 AI models locally or in the cloud using Docker containers and with a user-friendly interface. Keep your data secure and access AI capabilities without relying on third-party services. Ideal for businesses and individuals seeking control over their AI deployments.
 
 **Features**
 
@@ -77,7 +77,7 @@ We welcome contributions from the community! To contribute:
 
 Contact
 
-Created by Yashwant Nidhonkar Abhay Dandge. Feel free to reach out via LinkedIn or GitHub.
+Created by Yashwant Nidhonkar and Abhay Dandge. Feel free to reach out via LinkedIn or GitHub.
 https://www.linkedin.com/in/yashwant-nidhonkar-28907421b/
 https://www.linkedin.com/in/abhaydandge/
 
