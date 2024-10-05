@@ -77,7 +77,9 @@ We welcome contributions from the community! To contribute:
 
 Contact
 
-Created by Abhay Dandge. Feel free to reach out via LinkedIn or GitHub.
+Created by Yashwant Nidhonkar Abhay Dandge. Feel free to reach out via LinkedIn or GitHub.
+https://www.linkedin.com/in/yashwant-nidhonkar-28907421b/
+https://www.linkedin.com/in/abhaydandge/
 
 Note: (By default only one model is there lamma3)
 Refer for more Model & Insite
